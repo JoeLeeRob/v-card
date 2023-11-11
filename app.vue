@@ -15,7 +15,7 @@
           </div>
           <div class="my-8 w-full px-8">
             <button class="bg-blue-500 w-full hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-              Save My Contact
+              Save My Contacts
             </button>
           </div>
         </div>
