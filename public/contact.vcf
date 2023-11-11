@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 12.3.1//EN
+N:Robinson;Joseph;;;
+FN: Joseph  Robinson 
+EMAIL;type=home;type=INTERNET;type=pref:Robinson.Joseph.Lee@gmail.com
+TEL;type=cell;type=voice;type=pref:(385) 244-7252
+ADR;type=home;type=pref:;;;Farmington;UT;84025;United States
+END:VCARD
