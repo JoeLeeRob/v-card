@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-slate-900 h-screen p-4 w-screen flex justify-center items-center">
-    <div class="max-w-sm w-full bg-slate-950 relative">
+  <div class="bg-slate-900 h-screen p-4 w-screen flex justify-center ">
+    <div class="max-w-sm w-full h-fit bg-slate-950 relative">
 
         <div>
           <div class="w-full h-[200px]">
