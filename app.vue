@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-slate-900 h-screen w-screen flex justify-center items-center">
+  <div class="bg-slate-900 h-screen p-4 w-screen flex justify-center items-center">
     <div class="max-w-sm w-full bg-slate-950 relative">
 
         <div>
@@ -7,7 +7,7 @@
           <NuxtImg src="https://source.unsplash.com/random?technology" class="w-full h-full object-cover"/>
         </div>
 
-        <div class="flex flex-col items-center gap-8 relative top-[-75px]">
+        <div class="flex flex-col items-center p-2 gap-8 relative top-[-75px]">
           <NuxtImg :src="profilePicture"  class="w-[150px] h-[150px] rounded-full object-cover object-[37%] mx-auto"/>
           <div class="text-center text-gray-100">
             <p class="text-4xl font-semibold mb-2">Joseph Robinson</p>
