@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-slate-900 h-screen p-4 w-screen flex justify-center ">
+  <div class="bg-slate-900 min-h-screen p-8 w-screen flex justify-center ">
     <div class="max-w-sm w-full h-fit bg-slate-950 relative">
 
         <div>
